@@ -1,4 +1,9 @@
-<h1 align="center">READ ME</h1>
+<h1 align="center">Installation du Lab Acropolix</h1>
+
+<p align="center">
+<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html" alt="GPL v2.0"><img src="https://img.shields.io/badge/License-GPL_v2-blue.svg" /></a>
+</p>
+<br />
 
 Ce dépôt contient tous les éléments nécessaires pour reproduire l'environnement de travail du Lab Acropolix : 
 
